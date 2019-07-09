@@ -1,7 +1,3 @@
-from random import *
-from tkinter import *
-
-
 file = open('generator_dump.py', 'w')
 file.write('from random import *\n'
            'from tkinter import *\n'
